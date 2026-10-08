@@ -34,7 +34,7 @@ export default function Header() {
                 Monte Home
               </span>
               <span className="hidden sm:inline text-[10px] tracking-[0.2em] uppercase text-accent-deep">
-                Decoración
+                
               </span>
             </span>
           </Link>

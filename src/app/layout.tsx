@@ -8,8 +8,8 @@ const inter = Inter({ variable: "--font-inter", subsets: ["latin"] });
 const cormorant = Cormorant_Garamond({ variable: "--font-cormorant", subsets: ["latin"], weight: ["400", "600", "700"] });
 
 export const metadata: Metadata = {
-  title: "Monte Home | Muebles y decoración",
-  description: "Monte Home - Muebles y decoración para transformar tus espacios. Porta plantas, estantes decorativos y más, con entrega en 5 a 7 días.",
+  title: "Monte Home",
+  description: "Muebles y decoración para transformar tus espacios. Porta plantas, estantes decorativos y más, con entrega en 5 a 7 días.",
   icons: { icon: "/logo-mark.png" },
 };
 
